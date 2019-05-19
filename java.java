@@ -1,7 +1,7 @@
 public class person{
-	public void setName(){
-
-	}
+	public string string;
+	public void setName(string a){
+		string = a;
 }
 public class personA extends person{
 	public void PersonA(){
